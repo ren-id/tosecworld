@@ -1,6 +1,7 @@
 ---
 title: "Careers at TOSEC WORLD"
 description: "Are you ready to embark on an incredible journey with TOSEC WORLD? We're not just a company; we're a community of innovators, problem solvers, and visionaries dedicated to shaping the future. At TOSEC WORLD, we're proud of our diverse team that thrives on creativity, collaboration, and pushing boundaries."
+header-cover: https://images.pexels.com/photos/258160/pexels-photo-258160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 
 ## Professional Internship Program
