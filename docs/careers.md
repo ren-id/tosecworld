@@ -41,10 +41,8 @@ Partners must possess Commercial Performance. As a partner, you will be given th
 
 ## Career Opportunities
 
-
-
-a. CV in PDF format and a YouTube link containing a video resume sent to email: hrd@tosecworld.com
-b. Receive a message via email & WhatsApp number to schedule an interview
-c. Interview and Case Study
-d. Job notification and offer
-e. Start working
+1. CV in PDF format and a YouTube link containing a video resume sent to email: hrd@tosecworld.com
+2. Receive a message via email & WhatsApp number to schedule an interview
+3. Interview and Case Study
+4. Job notification and offer
+5. Start working

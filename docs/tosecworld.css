@@ -609,6 +609,10 @@ footer {
     max-width: 1280px;
 }
 
+.lebar-100 {
+    max-width: calc(100 * var(--ukuran-kelipatan));
+}
+
 .lebar-penuh {
     width: 100%;
 }
