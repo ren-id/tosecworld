@@ -1,6 +1,7 @@
 ---
 title: "About TOSEC WORLD"
 description: "Owned by several companies, TOSEC WORLD is a company that has been used and trusted for more than 10 years by group companies and their affiliations to recommend accurate commercial feasibility."
+header-cover: https://images.pexels.com/photos/258160/pexels-photo-258160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 ## Overview
 
