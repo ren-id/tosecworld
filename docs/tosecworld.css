@@ -225,6 +225,8 @@ form button {
 
 form button {
     border: none;
+    background-color: var(--aksen-biru);
+    color: #ffffff;
 }
 
 form input,
@@ -236,12 +238,6 @@ form textarea {
 form input:focus,
 form textarea:focus {
     outline: 6px solid var(--aksen-biru);
-}
-
-form button {
-    background-color: var(--aksen-biru);
-    box-shadow: 1px 1px 4px #55555550;
-    color: #ffffff;
 }
 
 .tags {
@@ -646,4 +642,16 @@ p {
 
 .background-light {
     background-color: #ffffff;
+}
+
+.header-cover {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: var(--aksen-biru);
+    position: relative;
+}
+
+.min-height-50 {
+    min-height: 400px;
 }
