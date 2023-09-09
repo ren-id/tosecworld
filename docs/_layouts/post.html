@@ -1,0 +1,23 @@
+{% include head.html %}
+
+{% include header.html %}
+<div class="badan">
+    <article>
+        {{ content }}
+        <div class="informasi">
+            <p><b>Published on {{ page.date }}</b></p>
+            <p><i>Berikan tanggapan melalui email rahasia.</i></p>
+            <!-- modify this form HTML and place wherever you want your form -->
+            <form action="https://formspree.io/f/mjvqgbpa" method="POST" target="_blank">
+                <input class="mb-1" type="email" name="email" placeholder="Your Email" required>
+                <textarea class="mb-1" name="message" placeholder="Your Message" required></textarea>
+                <!-- your other form fields go here -->
+                <button class="mb-1" type="submit">Send</button>
+            </form>
+        </div>
+    </article>
+    {% include footer.html %}
+</div>
+</body>
+
+</html>

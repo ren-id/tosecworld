@@ -1,0 +1,44 @@
+---
+---
+{
+    "short_name": "TOSEC WORLD",
+    "name": "TOSEC WORLD",
+    "description": "Welcome to TOSEC WORLD | Unlocking Potential, Enabling Prosperity.",
+    "icons": [
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon56.png",
+            "type": "image/png",
+            "sizes": "56x56"
+        },
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://cdn.ren.my.id/tosecworld/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://tosecworld.com",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#2967b4"
+}
