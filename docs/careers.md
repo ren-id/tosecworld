@@ -2,7 +2,7 @@
 title: "Join TOSEC WORLD"
 description: "Are you ready to embark on an incredible journey with TOSEC WORLD? We're not just a company; we're a community of innovators, problem solvers, and visionaries dedicated to shaping the future. At TOSEC WORLD, we're proud of our diverse team that thrives on creativity, collaboration, and pushing boundaries."
 ---
-# Careers
+# Careers at TOSEC WORLD
 
 ## 1. Professional Internship Program
 
@@ -41,8 +41,8 @@ Partners must possess Commercial Performance. As a partner, you will be given th
 
 ## 3. Career Opportunities
 
-### a. CV in PDF format and a YouTube link containing a video resume sent to email: hrd@tosecworld.com
-### b. Receive a message via email & WhatsApp number to schedule an interview
-### c. Interview and Case Study
-### d. Job notification and offer
-### e. Start working
+a. CV in PDF format and a YouTube link containing a video resume sent to email: hrd@tosecworld.com
+b. Receive a message via email & WhatsApp number to schedule an interview
+c. Interview and Case Study
+d. Job notification and offer
+e. Start working
