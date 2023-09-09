@@ -2,7 +2,6 @@
 title: "TOSEC WORLD Capabilities"
 description: "Our capabilities: commercial market, design & system, organization & human"
 ---
-# Our Capabilities
 
 ## Commercial Market
 

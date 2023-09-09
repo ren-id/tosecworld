@@ -2,15 +2,13 @@
 title: "About TOSEC WORLD"
 description: "Owned by several companies, TOSEC WORLD is a company that has been used and trusted for more than 10 years by group companies and their affiliations to recommend accurate commercial feasibility."
 ---
-# Overview
+## Overview
 
 Owned by several companies, TOSEC WORLD is a company that has been used and trusted for more than 10 years by group companies and their affiliations to recommend accurate commercial feasibility.
 
 TOSEC WORLD has helped achieve the commercial interests of businesses within the group and its affiliations in accordance with the predetermined targets. As well as consistently encouraging the business world for the sake of sustaining life and economic growth and contributing to future generations.
 
 ## Our Responsibility
-
-### Green Social
 
 Green Social is an original program by TOSEC WORLD and its group companies as a form of support and contribution in helping to advance and prosper the life of the nation. Green Social program is implemented in precisely targeted areas, through surveys and studies that are conducted by obtaining primary data first.
 
