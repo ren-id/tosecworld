@@ -338,15 +338,9 @@ hr {
 }
 
 .header-menu-ren {
-    display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
 }
 
 .header-menu-ren li {
@@ -432,6 +426,12 @@ hr {
     text-align: center;
 }
 
+.cover-image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .gradient-to-bottom-black {
     background-image: linear-gradient(180deg, #000000, transparent);
 }
@@ -462,6 +462,15 @@ hr {
 
     .h-description {
         width: 50%;
+    }
+
+    .header-menu-ren {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
     }
 
     .gradient-black {
@@ -522,6 +531,10 @@ a {
 .full-section {
     margin: 0 0 0 0;
     position: relative;
+}
+
+.full-width {
+    width: 100%;
 }
 
 .cover {
