@@ -668,3 +668,11 @@ p {
 .min-height-50 {
     min-height: 400px;
 }
+
+article h1:first-child, article h2:first-child, article h3:first-child {
+    margin-top: 0;
+}
+
+article h1, article h2, article h3 {
+    margin-top: calc(8 * var(--ukuran-kelipatan));
+}
