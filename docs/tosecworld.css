@@ -178,7 +178,6 @@ p {
 .item-content-100>img,
 .item-content-50>img,
 .penghalang {
-    position: absolute;
     top: 0;
     bottom: 0;
     right: 0;
@@ -187,6 +186,15 @@ p {
     height: 100%;
     object-fit: cover;
     object-position: center;
+}
+
+.item-content-100>img,
+.item-content-50>img {
+    position: relative;
+}
+
+.penghalang {
+    position: absolute;
 }
 
 .item-content-50 img {
@@ -657,7 +665,7 @@ p {
     background-color: #ffffff;
 }
 
-.header-cover {
+.background-relative {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
