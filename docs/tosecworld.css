@@ -601,6 +601,11 @@ footer {
     color: #ffffff;
 }
 
+.latar-biru-transparan {
+    background-color: var(--aksen-biru-transparan);
+    color: #ffffff;
+}
+
 .opac-2 {
     opacity: 50%;
 }
@@ -675,6 +680,10 @@ p {
 
 .min-height-50 {
     min-height: 400px;
+}
+
+.min-height-75 {
+    min-height: 600px;
 }
 
 article h1:first-child, article h2:first-child, article h3:first-child {
