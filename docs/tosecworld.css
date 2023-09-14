@@ -99,12 +99,12 @@ body {
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 40px;
     margin: 0 0 0 0;
 }
 
 h2 {
-    font-size: 48px;
+    font-size: 32px;
     margin: 0 0 0 0;
 }
 
@@ -688,6 +688,14 @@ p {
     margin: 24px 0 24px 0;
 }
 
+article h1,
+article h2,
+article h3,
+article h4 {
+    border-bottom: 1px solid #f9f9f9;
+    padding-bottom: 8px;
+}
+
 .background-light {
     background-color: #ffffff;
 }
@@ -708,10 +716,14 @@ p {
     min-height: 600px;
 }
 
-article h1:first-child, article h2:first-child, article h3:first-child {
+article h1:first-child,
+article h2:first-child,
+article h3:first-child {
     margin-top: 0;
 }
 
-article h1, article h2, article h3 {
+article h1,
+article h2,
+article h3 {
     margin-top: calc(8 * var(--ukuran-kelipatan));
 }
