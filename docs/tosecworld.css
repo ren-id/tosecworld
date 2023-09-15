@@ -649,6 +649,10 @@ footer {
     border-right: calc(3 * var(--ukuran-kelipatan)) solid var(--aksen-jingga);
 }
 
+.aksen-border-atas {
+    border-top: calc(3 * var(--ukuran-kelipatan)) solid var(--aksen-jingga);
+}
+
 .lebar-maks-lanskap {
     max-width: 1280px;
 }
