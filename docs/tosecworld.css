@@ -743,3 +743,7 @@ article h2,
 article h3 {
     margin-top: calc(8 * var(--ukuran-kelipatan));
 }
+
+.border-standar-1 {
+    border: 8px solid var(--aksen-jingga);
+}
