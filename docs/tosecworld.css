@@ -604,6 +604,16 @@ footer {
     transform: rotate(0deg);
 }
 
+.segitiga::before {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 calc(3 * var(--ukuran-kelipatan)) calc(3 * var(--ukuran-kelipatan)) calc(3 * var(--ukuran-kelipatan));
+    border-color: transparent transparent var(--aksen-jingga) transparent;
+    transform: rotate(0deg);
+    margin: 0 auto 0 auto;
+}
+
 .section {
     margin: 48px auto 48px auto;
 }
