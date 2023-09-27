@@ -753,3 +753,8 @@ article h3 {
     border-radius: 4px 4px 4px 4px;
     cursor: default;
 }
+
+.lang-button:hover {
+    border: 1px solid #ddd9d9;
+    box-shadow: 0px 2px 1px #00000029;
+}
