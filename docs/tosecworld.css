@@ -747,3 +747,9 @@ article h3 {
 .border-standar-1 {
     border: 8px solid var(--aksen-jingga);
 }
+
+.lang-button {
+    border: 1px solid #eeeeeeff;
+    border-radius: 4px 4px 4px 4px;
+    cursor: default;
+}
