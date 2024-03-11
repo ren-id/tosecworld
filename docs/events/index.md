@@ -3,5 +3,5 @@
 Lihat atau unduh materi promosi.
 
 {% for post in site.categories.events limit:20 %}
-* [{{ post.title }}]({{ post.url | relative_url }})
+* [{{ post.title }}]({{ post.path | split: '/' | last }})
 {% endfor %}
