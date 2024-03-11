@@ -2,6 +2,8 @@
 
 Lihat atau unduh materi promosi.
 
-{% for post in site.categories.events limit:20 %}
-* [{{ post.title }}]({{ post.path | split: '/' | last }})
+{% for page in site.pages %}
+  {% if page.dir == 'events' %}
+    * [{{ page.path | split: '/' | last }}]({{ page.path | split: '/' | last }})
+  {% endif %}
 {% endfor %}
