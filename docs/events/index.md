@@ -3,5 +3,5 @@
 Lihat atau unduh materi promosi.
 
 {% for post in site.categories.events limit:20 %}
-* [{{ post.title }}]({{ post.url }})
+* [{{ post.title }}]({{ post.basename }})
 {% endfor %}
