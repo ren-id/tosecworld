@@ -1,0 +1,11 @@
+---
+title: Materi Promosi
+description: Lihat atau unduh materi promosi.
+---
+<ul>
+{% for file in site.static_files %}
+  {% if file.path contains "events/" %}
+    <li><a href="{{ file.path }}" target="_blank">{{ file.name }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
