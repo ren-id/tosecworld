@@ -533,6 +533,11 @@ div[name='cari'] {
 }
 
 a {
+    color: #0060ff;
+    text-decoration: none;
+}
+
+header a, .header-ren a, footer a {
     color: inherit;
     text-decoration: none;
 }
