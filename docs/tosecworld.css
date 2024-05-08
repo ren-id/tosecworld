@@ -115,6 +115,12 @@ h3 {
 
 p {
     margin: 32px 0 0 0;
+    font-family: 'General Sans', 'Nimbus Sans L', 'Arial', 'Helvetica Neue', 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+p:last-child {
+    margin-bottom: 0;
 }
 
 .tombol {
@@ -376,7 +382,7 @@ hr {
 .header-submenu-ren ul {
     list-style-type: none;
     margin: 0 0 0 0;
-    padding: 24px 24px 24px 24px;
+    padding: 0 0 0 0;
     background-color: #ffffff;
     box-shadow: 0 10px 20px #00000063;
     border: 2px solid #ffd008;
@@ -390,12 +396,11 @@ hr {
 }
 
 .header-submenu-ren li {
-    padding: 8px 0 8px 0;
+    padding: 12px 24px 12px 24px;
 }
 
 .header-submenu-ren li:hover {
-    color: var(--aksen-biru);
-    border-bottom: 2px solid var(--aksen-jingga);
+    background-color: var(--aksen-jingga);
 }
 
 .container {
@@ -426,7 +431,7 @@ hr {
 }
 
 .cover-description h1 {
-    font-size: 6vw;
+    font-size: 60px;
 }
 
 .cover-image {
@@ -556,7 +561,8 @@ header a, .header-ren a, footer a {
 }
 
 footer {
-    background-color: var(--aksen-biru);
+    color: var(--aksen-biru);
+    background-color: #ffffff;
 }
 
 .flex {
@@ -642,6 +648,11 @@ footer {
 
 .latar-biru-transparan {
     background-color: var(--aksen-biru-transparan);
+    color: #ffffff;
+}
+
+.latar-korporat {
+    background-image: linear-gradient(90deg, #0569b7ff, #0569b7a5, #ffc800cf, #ffc800ff);
     color: #ffffff;
 }
 
