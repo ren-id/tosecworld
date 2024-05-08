@@ -431,7 +431,7 @@ hr {
 }
 
 .cover-description h1 {
-    font-size: 4vw;
+    font-size: 6vw;
 }
 
 .cover-image {
@@ -569,7 +569,7 @@ footer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: stretch;
     align-content: flex-start;
 }
