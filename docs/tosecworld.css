@@ -730,6 +730,10 @@ article h4 {
     padding-bottom: 8px;
 }
 
+article img {
+    max-width: 100%;
+}
+
 .background-light {
     background-color: #ffffff;
 }
@@ -805,7 +809,7 @@ ol li {
 
 .thumb .keterangan {
     position: absolute;
-    bottom: 0;
+    top: 0;
     right: 0;
     left: 0;
     width: 100%;
