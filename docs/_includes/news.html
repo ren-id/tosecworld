@@ -4,10 +4,13 @@
         {% for post in site.categories.news limit:20 %}
         <div class="col-3">
             <div class="p-3">
-                <div class="p-3 item-child">
-                    <a href="{{ post.tautan }}"><h3>{{ post.title }}</h3></a>
-                    <p class="clear-border">{{ post.description }}</p>
-                    <p>Summarize from <b><a href="{{ post.tautan }}">{{ post.sumber }}</a></b></p>
+                <div class="item-child thumb">
+                    <div class="p-3 keterangan">
+                        <a href="{{ site.url }}{{ post.url }}" target="_blank">
+                            <h3>{{ post.title }}</h3>
+                        </a>
+                    </div>
+                    <img src="{{ post.thumb }}">
                 </div>
             </div>
             </a>
