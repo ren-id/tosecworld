@@ -789,6 +789,10 @@ ol li {
     position: relative;
 }
 
+.thumb:hover {
+    outline: 4px solid var(--aksen-jingga-transparan);
+}
+
 .thumb:after {
     content: "";
     display: block;
