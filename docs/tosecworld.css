@@ -794,7 +794,7 @@ ol li {
 }
 
 .thumb:hover {
-    outline: 4px solid var(--aksen-jingga-transparan);
+    outline: 4px solid var(--aksen-jingga);
 }
 
 .thumb:after {
