@@ -730,7 +730,11 @@ article h4 {
     padding-bottom: 8px;
 }
 
-article img {
+article {
+    padding: 16px 16px 16px 16px;
+}
+
+article img, .article img {
     width: 100%;
 }
 
@@ -822,7 +826,6 @@ ol li {
 }
 
 .article {
-    padding: 16px 16px 16px 16px;
     background-color: #ffffff;
     margin: 16px 16px 16px 16px;
     border: 1px solid #eeeeee;
